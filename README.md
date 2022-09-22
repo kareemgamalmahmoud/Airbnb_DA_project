@@ -12,3 +12,5 @@
 
 > In this [Overleaf link](https://www.overleaf.com/read/yvsfqxkcjspk), we will explain everything from A to z in terms of describing the data and models used.
 
+
+> You can also watch the presentation video from this [link](https://drive.google.com/file/d/1lwMijWFhZGCOyUNDUjRubhMqwUbytbRr/view?usp=sharing)
